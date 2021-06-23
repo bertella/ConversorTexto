@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTYuXXsCfKDwEwbNbMNWB4TG4a9kWxb7DtT3JpgKwo/ee+MjiiJ4ssnBXHxkvxOiANRnMkvZbHaeJE0A+GxdLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fnilsson.SeaburyMRO\\source\\repos\\ImagenTexto\\ImagenTexto\\ImagenTexto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fnilsson.SeaburyMRO\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\fnilsson.SeaburyMRO\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\fnilsson.SeaburyMRO\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\fnilsson.SeaburyMRO\\.nuget\\packages\\tesseract.net.sdk\\1.19.342\\tesseract.net.sdk.1.19.342.nupkg.sha512"
+  ],
+  "logs": []
+}
